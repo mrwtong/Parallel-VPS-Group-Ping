@@ -13,7 +13,9 @@
 
 ---
 ##  **特征**：
-借用子线程对Ping进程的进度及延迟数据进行异步IO，流程图如下：  
+借用子线程对Ping进程的进度及延迟数据进行异步IO，结构如下：  
+![结构](https://github.com/mrwtong/Parallel-VPS-Group-Ping/blob/master/img/Diagram.jpg?raw=true)
 每一个Ping子进程的内存占用约为1M  
 输出格式：  
+![输出](https://github.com/mrwtong/Parallel-VPS-Group-Ping/blob/master/img/case.jpg?raw=true)
 相关工具链接 [psping64](https://docs.microsoft.com/en-us/sysinternals/downloads/psping)
