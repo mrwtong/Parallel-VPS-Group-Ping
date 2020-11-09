@@ -20,8 +20,6 @@ def CtrlCHandler(signum, frame):
 
 
 ''''''
-#url = "https://xbsj8564.xyz/rss/WywlQi3/IeDj2Y?net_type=VMESS"
-#url = "https://xbsj8564.xyz/rss/WywlQi3/IeDj2Y?net_type=TROJAN"
 ''''''
 # table column width
 c1 = 8  # index
